@@ -1,0 +1,186 @@
+# Copyright (C) 2022 WP Map Plugins
+# This file is distributed under the same license as the WP Map Plugins package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP "
+"Map Plugins\n"
+"Report-Msgid-Bugs-To: "
+"WPMapPlugins "
+"<wpmapplugins@gmail."
+"com>\n"
+"POT-Creation-Date: "
+"2022-09-27 10:33+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: "
+"WPMapPlugins "
+"<wpmapplugins@gmail."
+"com>\n"
+"Language-Team: "
+"WPMapPlugins "
+"<wpmapplugins@gmail."
+"com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.1\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+"X-Poedit-"
+"SearchPathExcluded-0: "
+"public\n"
+
+#: includes/anatomy-admin.php:7
+msgid ""
+"Insert this shortcode "
+msgstr ""
+
+#: includes/anatomy-admin.php:7
+msgid ""
+"in any page or post to "
+"display the figure."
+msgstr ""
+
+#: includes/anatomy-admin.php:7
+msgid "Save Changes"
+msgstr ""
+
+#: includes/anatomy-admin.php:15
+msgid "Settings"
+msgstr ""
+
+#: includes/anatomy-admin.php:18
+msgid "HEAD"
+msgstr ""
+
+#: includes/anatomy-admin.php:19
+#: includes/anatomy-admin.php:36
+#: includes/anatomy-admin.php:53
+#: includes/anatomy-admin.php:70
+#: includes/anatomy-admin.php:87
+#: includes/anatomy-admin.php:104
+#: includes/anatomy-admin.php:121
+#: includes/anatomy-admin.php:138
+#: includes/anatomy-admin.php:155
+msgid "Active"
+msgstr ""
+
+#: includes/anatomy-admin.php:22
+#: includes/anatomy-admin.php:39
+#: includes/anatomy-admin.php:56
+#: includes/anatomy-admin.php:73
+#: includes/anatomy-admin.php:90
+#: includes/anatomy-admin.php:107
+#: includes/anatomy-admin.php:124
+#: includes/anatomy-admin.php:141
+#: includes/anatomy-admin.php:158
+msgid "Link"
+msgstr ""
+
+#: includes/anatomy-admin.php:23
+#: includes/anatomy-admin.php:40
+#: includes/anatomy-admin.php:57
+#: includes/anatomy-admin.php:74
+#: includes/anatomy-admin.php:91
+#: includes/anatomy-admin.php:108
+#: includes/anatomy-admin.php:125
+#: includes/anatomy-admin.php:142
+#: includes/anatomy-admin.php:159
+msgid "Target"
+msgstr ""
+
+#: includes/anatomy-admin.php:25
+#: includes/anatomy-admin.php:42
+#: includes/anatomy-admin.php:59
+#: includes/anatomy-admin.php:76
+#: includes/anatomy-admin.php:93
+#: includes/anatomy-admin.php:110
+#: includes/anatomy-admin.php:127
+#: includes/anatomy-admin.php:144
+#: includes/anatomy-admin.php:161
+msgid "Same Page"
+msgstr ""
+
+#: includes/anatomy-admin.php:26
+#: includes/anatomy-admin.php:43
+#: includes/anatomy-admin.php:60
+#: includes/anatomy-admin.php:77
+#: includes/anatomy-admin.php:94
+#: includes/anatomy-admin.php:111
+#: includes/anatomy-admin.php:128
+#: includes/anatomy-admin.php:145
+#: includes/anatomy-admin.php:162
+msgid "New Page"
+msgstr ""
+
+#: includes/anatomy-admin.php:27
+#: includes/anatomy-admin.php:44
+#: includes/anatomy-admin.php:61
+#: includes/anatomy-admin.php:78
+#: includes/anatomy-admin.php:95
+#: includes/anatomy-admin.php:112
+#: includes/anatomy-admin.php:129
+#: includes/anatomy-admin.php:146
+#: includes/anatomy-admin.php:163
+msgid "Modal / None"
+msgstr ""
+
+#: includes/anatomy-admin.php:35
+msgid "NECK"
+msgstr ""
+
+#: includes/anatomy-admin.php:52
+msgid "CHEST"
+msgstr ""
+
+#: includes/anatomy-admin.php:69
+msgid "ABDOMEN"
+msgstr ""
+
+#: includes/anatomy-admin.php:86
+msgid "PELVIS"
+msgstr ""
+
+#: includes/anatomy-admin.php:103
+msgid "ARM [RT]"
+msgstr ""
+
+#: includes/anatomy-admin.php:120
+msgid "ARM [LT]"
+msgstr ""
+
+#: includes/anatomy-admin.php:137
+msgid "LEG [RT]"
+msgstr ""
+
+#: includes/anatomy-admin.php:154
+msgid "LEG [LT]"
+msgstr ""
+
+#: includes/anatomy-admin.php:181
+msgid "Restore Default"
+msgstr ""
